@@ -1,0 +1,8 @@
+﻿NOVAScope : 20210222_V1.12.R6333
+Serial number : FNO21092021
+Hardware config : ArmCuff, AnalogIO, Basic
+
+Measurement;Reference;Age(yrs);Height(cm);Weight(kg);Gender;FlowCorrection(%);Procedure;Application;MeasurementStart;Patient;Physician
+"2024-10-03_12.21.49";;40;183;82;Male;100;;NovaScope;2024-10-03_12:26:25.494;subject10;
+
+Time(sec);Ana In 1();Ana In 2();Marker;Region;
