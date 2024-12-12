@@ -1,0 +1,9 @@
+﻿NOVAScope : 20210222_V1.12.R6333
+Serial number : FNO21092021
+Hardware config : ArmCuff, AnalogIO, Basic
+
+Measurement;Reference;Age(yrs);Height(cm);Weight(kg);Gender;FlowCorrection(%);Procedure;Application;MeasurementStart;Patient;Physician
+"2024-10-01_10.08.47";;24;163;54;Female;100;;NovaScope;2024-10-01_10:10:16.014;subject5;
+
+Time(sec);DIA Arm(mmHg);Marker;Region;
+161.7583;68.9962;"Cuff = Cuff2", "BraCal: begin auto", "ArmCuff: 108/69";;
